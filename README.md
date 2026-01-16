@@ -61,5 +61,5 @@
 ---
 
 ## 📌 BNk 금융 과정 정리 노션
-https://www.notion.so/DT-2ea3033926b6809aa829ff3c2fba8263?source=copy_link
+- https://www.notion.so/DT-2ea3033926b6809aa829ff3c2fba8263?source=copy_link
 
