@@ -80,7 +80,7 @@
       <td>Spring Boot / MyBatis / Oracle</td>
       <td>
         <a href="https://github.com/alsrb2714123-lab/BNk-Spring.git">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://youtu.be/sK6i5ctyj78/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </td>
       <td>
